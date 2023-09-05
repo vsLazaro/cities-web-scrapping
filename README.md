@@ -1,5 +1,11 @@
 ## Cities web scrapping
 
+### Group
+
+- Amanda Wilmsen
+- Lázaro Maciel
+- Thiago Borges de Souza
+
 ### How to run
 
 - To run the scripts to get the informations you have to open your terminal and import the conda environment.yml
