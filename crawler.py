@@ -56,7 +56,6 @@ populateCountryLinks(next_page['href'])
 for link in country_links:
    countries.append(getCountry(link))
 
-csv_filename = "countries.csv"
 
 csv_filename = "countries.csv"
 if os.path.exists(csv_filename):
